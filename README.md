@@ -1,5 +1,5 @@
 # stripEqual
-=====
+
 
 Purpose: 
 
@@ -15,6 +15,7 @@ Purpose:
 
 
 GUI: StripTagFiles.app --> If you want a macOS GUI icon just to click to do all the work then 
+=====
 	1) install stripEqual system wide using the installer
 	2) Edit StripTagFiles.applescript replace FolderLocation to the folder location to target and save the file
 	3) Explort the file as a application to the application folder
