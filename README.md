@@ -14,7 +14,7 @@ Purpose:
 	Install the GUI and just click on the icon
 
 
-GUI: StripTagFiles.app --> If you want a macOS GUI to do all the work then 
+StripTagFiles.app | If you want a macOS GUI to do all the work then 
 =====
 	1) install stripEqual system wide using the installer
 	2) Edit StripTagFiles.applescript replace FolderLocation to the folder location to target 
