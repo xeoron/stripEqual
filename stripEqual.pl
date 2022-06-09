@@ -6,7 +6,7 @@
 # Purpose: Strip out equal signs from csv files
 #           Works the same as this 1 linger:  perl -0777 -pe 's/=//g' ./TagListing.csv > ./result.csv 
 #           Only you can install this script system wide to use!!!
-# Usage: ./stripEqual.pl > ./results.csv
+# Usage: ./stripEqual.pl ./Taglisting.csv > ./results.csv
 # Repository: 
 # License: Released under GPL v3 or higher. Details here http://www.gnu.org/licenses/gpl.html
 
