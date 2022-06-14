@@ -13,7 +13,7 @@ Date: 6/14/22 released under the gpl 3 or higher
 *)
 
 set myUser to "Admin" -- the user account where the data will be dropped into
-set myPATH to "Downloads" -- Where the csv file is stored Example "/Downloads/Tags"
+set myPATH to "Downloads" -- Where the csv file is stored
 set myCSVfile to "TagListing.csv" -- file to strip out = chars
 set myResult to "results.csv"	-- place results into this file
 
