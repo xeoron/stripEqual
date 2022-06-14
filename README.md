@@ -16,7 +16,7 @@ Purpose:
 
 macOS StripTagFiles.app | If you want a macOS GUI to do all the work then 
 =====
-	0) Edit StripTagFiles.applescript dit the variables to meet your needs for locations and names
+	0) Edit StripTagFiles.applescript variables to meet your needs for locations and names
     	sset myUser to "Admin" -- the user account where the data will be dropped into
     	set myPATH to "Downloads" -- Where the csv file is stored
     	set myCSVfile to "TagListing.csv" -- file to strip out = chars
