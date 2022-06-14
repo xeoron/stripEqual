@@ -16,7 +16,7 @@ Purpose:
 
 StripTagFiles.app | If you want a macOS GUI to do all the work then 
 =====
-	0) Edit StripTagFiles.applescript replace FolderLocation to the folder location to target. 
+	0) Edit StripTagFiles.applescript replace FolderLocation to the folder location target. 
 		Change to something like "Admin/Downloads/Tags" 
     1) Save the file
 	2) Explort the file as a application to the application folder 
