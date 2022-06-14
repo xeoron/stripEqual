@@ -14,7 +14,7 @@ Purpose:
 	Install the GUI and just click on the icon
 
 
-StripTagFiles.app | If you want a macOS GUI to do all the work then 
+macOS StripTagFiles.app | If you want a macOS GUI to do all the work then 
 =====
 	0) Edit StripTagFiles.applescript dit the variables to meet your needs for locations and names
     	sset myUser to "Admin" -- the user account where the data will be dropped into
