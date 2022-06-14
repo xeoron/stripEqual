@@ -16,9 +16,12 @@ Purpose:
 
 StripTagFiles.app | If you want a macOS GUI to do all the work then 
 =====
-	0) Edit StripTagFiles.applescript replace FolderLocation to the folder location target. 
-		Change to something like "Admin/Downloads/Tags" 
-    1) Save the file
+	0) Edit StripTagFiles.applescript dit the variables to meet your needs for locations and names
+    	sset myUser to "Admin" -- the user account where the data will be dropped into
+    	set myPATH to "Downloads" -- Where the csv file is stored Example "/Downloads/Tags"
+    	set myCSVfile to "TagListing.csv" -- file to strip out = chars
+    	set myResult to "results.csv" -- place results into this file
+    1) Save & compile
 	2) Explort the file as a application to the application folder 
 	3) pin the app to the dock if you wish
     
